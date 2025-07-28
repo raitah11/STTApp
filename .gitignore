@@ -1,0 +1,8 @@
+# Custom items to ignore (Template .gitignore follows this)
+
+# Project-specific
+.env
+
+# MacOS-specific
+.DS_Store
+
